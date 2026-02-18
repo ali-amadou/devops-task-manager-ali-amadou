@@ -4,8 +4,8 @@ app.use(express.json());
 
 let tasks = [
   { id: 1, title: "Initial task", completed: true },
-  { id: 2, title: "Install Git and Node.js", "completed": true },
-  { id: 2, title: "Learn DevOps basics", completed: false }
+  { id: 2, title: "Install Git and Node.js", completed: true },
+  { id: 3, title: "Ali Learned DevOps basics", completed: true }
   
 ];
 
