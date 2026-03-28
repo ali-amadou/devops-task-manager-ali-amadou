@@ -35,5 +35,5 @@ jobs:
       context: .
       push: true
       tags: |
-       ghcr.io/kanass20/task-manager-api:latest
-       ghcr.io/kanass20/task-manager-api:prod
+       ghcr.io/ali-amadou/task-manager-api:latest
+       ghcr.io/ali-amadou/task-manager-api:prod
